@@ -20,12 +20,8 @@
 
 ---
 
-<details>
-<summary><strong>Purpose</strong></summary>
-
+## Purpose
 _Briefly describe the objective or goal of this protocol._
-
-</details>
 
 ---
 
@@ -41,17 +37,31 @@ _Briefly describe the objective or goal of this protocol._
 
 </details>
 
-## Accessory Files
+---
+
+<details>
+<summary><strong>Accessory Files</strong></summary>
+
 _Reference any additional files related to the protocol (stored in the `accessory_files` directory):_
 
 - [example_data.xlsx](accessory_files/example_data.xlsx) - _Description of the data file (e.g., contains sample metadata)._  
-- [protocol_diagram.png](accessory_files/protocol_diagram.png) - _Description of the image or diagram (e.g., workflow overview)._  
+- [protocol_diagram.png](accessory_files/protocol_diagram.png) - _Description of the diagram (e.g., workflow overview)._
 
-## Scripts
+</details>
+
+---
+
+<details>
+<summary><strong>Scripts</strong></summary>
+
 _Reference any scripts used in the protocol (stored in the `scripts` directory):_
 
-- [analysis_script.py](scripts/analysis_script.py) - _Description of what the script does (e.g., analyzes sequencing output)._  
-- [helper_tool.R](scripts/helper_tool.R) - _Description of the R script's function (e.g., generates a summary graph)._  
+- [analysis_script.py](scripts/analysis_script.py) - _Description of the script (e.g., analyzes sequencing output)._  
+- [helper_tool.R](scripts/helper_tool.R) - _Description of the script’s function (e.g., generates summary graphs)._
+
+</details>
+
+---
 
 ## Methods
 _Step-by-step instructions to carry out the protocol. Use a numbered list for sequential steps (in Markdown, using "1." for all items will auto-number them in order&#8203;:contentReference[oaicite:0]{index=0}). Include timing or duration for steps when relevant, and any tips for best results._
