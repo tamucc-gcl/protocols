@@ -20,10 +20,18 @@
 
 ---
 
-## Purpose
+<details>
+<summary><strong>Purpose</strong></summary>
+
 _Briefly describe the objective or goal of this protocol._
 
-## Materials
+</details>
+
+---
+
+<details>
+<summary><strong>Materials</strong></summary>
+
 - **Reagents & Samples**:  
     - _List all reagents, samples, with concentrations or amounts._  
 - **Equipment**:  
@@ -31,22 +39,7 @@ _Briefly describe the objective or goal of this protocol._
 - **Consumables**:  
     - _List disposables (e.g., pipette tips, tubes) and any other supplies needed._
 
-## Methods
-_Step-by-step instructions to carry out the protocol. Use a numbered list for sequential steps (in Markdown, using "1." for all items will auto-number them in order&#8203;:contentReference[oaicite:0]{index=0}). Include timing or duration for steps when relevant, and any tips for best results._
-
-1. _First step of the procedure._  
-2. _Second step of the procedure._  
-3. _Third step of the procedure (continue as needed)._  
-
-## Notes
-- _Include any additional context, tips, or important considerations for this protocol._  
-- _For example, note any safety precautions, optional steps, or specific conditions that might affect the outcome._
-
-## Troubleshooting
-- **Issue**: _Description of a common problem or error that might occur (e.g., low yield, contamination)._  
-  **Solution**: _Recommended solution or steps to resolve the issue (e.g., increase incubation time, check reagent quality)._  
-- **Issue**: _Another potential problem and its description._  
-  **Solution**: _Corresponding solution or advice._  
+</details>
 
 ## Accessory Files
 _Reference any additional files related to the protocol (stored in the `accessory_files` directory):_
@@ -59,6 +52,38 @@ _Reference any scripts used in the protocol (stored in the `scripts` directory):
 
 - [analysis_script.py](scripts/analysis_script.py) - _Description of what the script does (e.g., analyzes sequencing output)._  
 - [helper_tool.R](scripts/helper_tool.R) - _Description of the R script's function (e.g., generates a summary graph)._  
+
+## Methods
+_Step-by-step instructions to carry out the protocol. Use a numbered list for sequential steps (in Markdown, using "1." for all items will auto-number them in order&#8203;:contentReference[oaicite:0]{index=0}). Include timing or duration for steps when relevant, and any tips for best results._
+
+1. _First step of the procedure._  
+2. _Second step of the procedure._  
+3. _Third step of the procedure (continue as needed)._  
+
+---
+
+<details>
+<summary><strong>Notes</strong></summary>
+
+- _Include any additional context, tips, or important considerations for this protocol._  
+- _For example, note any safety precautions, optional steps, or specific conditions that might affect the outcome._
+
+</details>
+
+---
+
+<details>
+<summary><strong>Troubleshooting</strong></summary>
+
+- **Issue**: _Description of a common problem or error (e.g., low yield, contamination)._  
+  **Solution**: _Recommended solution or steps to resolve the issue (e.g., increase incubation time, check reagent quality)._  
+- **Issue**: _Another potential problem and its description._  
+  **Solution**: _Corresponding solution or advice._
+
+</details>
+
+---
+
 
 ## Best Practices
 - **Clarity and Detail**: Write instructions clearly and unambiguously.  
