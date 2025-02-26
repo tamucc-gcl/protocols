@@ -12,7 +12,7 @@ Use the [protocol template](protocol_template.md)
 
 ## Protocol Naming
 
-`reaction-category_protocol-name_rxn-format`
+`reaction-category_protocol-name_rxn-format.md`
 
 * `reaction-category` is the category of the reaction. Do not make up a new category name if an appropriate one already exists. The list of categories follows here.  If you create a new category, add it to this list in alphabetical order
 	* cleanup
