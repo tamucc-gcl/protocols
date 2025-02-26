@@ -6,6 +6,20 @@
 **Version**: [e.g., 1.0]  
 **Tags**: [tag1, tag2, ...]  
 
+---
+
+<details>
+  <summary><strong>Change History</strong></summary>
+
+  | Date       | Version | Author  | Description                                   |
+  |------------|---------|---------|-----------------------------------------------|
+  | YYYY-MM-DD | 1.0.0   | [Name]  | Initial release of the protocol template.     |
+  | YYYY-MM-DD | 1.0.1   | [Name]  | Updated materials section and added troubleshooting tips. |
+  
+</details>
+
+---
+
 ## Purpose
 _Briefly describe the objective or goal of this protocol._
 
