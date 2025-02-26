@@ -1,5 +1,7 @@
 # Protocol Title
 
+_Briefly describe the objective or goal of this protocol._
+
 **Authors**: [Name]  
 **Date Created**: [YYYY-MM-DD]  
 **Last Updated**: [YYYY-MM-DD]  
@@ -17,11 +19,6 @@
   | YYYY-MM-DD | 1.0.1   | [Name]  | Updated materials section and added troubleshooting tips. |
   
 </details>
-
----
-
-## Purpose
-_Briefly describe the objective or goal of this protocol._
 
 ---
 
