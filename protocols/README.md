@@ -4,7 +4,7 @@ This directory contains all of the GCL protocols
 
 ---
 
-# Create a New Protocol
+## Create a New Protocol
 
 Use the [protocol template](protocol_template.md)
 
@@ -30,4 +30,4 @@ Use the [protocol template](protocol_template.md)
 
 ---
 
-# Protocol Inventory
+## Protocol Inventory
