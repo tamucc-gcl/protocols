@@ -1,6 +1,6 @@
 # Protocol Title
 
-**Author**: [Name]  
+**Authors**: [Name]  
 **Date Created**: [YYYY-MM-DD]  
 **Last Updated**: [YYYY-MM-DD]  
 **Version**: [e.g., 1.0]  
