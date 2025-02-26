@@ -6,7 +6,7 @@ This directory contains all of the GCL protocols
 
 ## Create a New Protocol
 
-Use the [protocol template](protocol_template.md)
+Use the [protocol template](protocol_template.md) to create a new protocol.  Be sure not to overwrite it.
 
 ---
 
