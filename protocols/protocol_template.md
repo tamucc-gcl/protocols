@@ -89,4 +89,15 @@ _Step-by-step instructions to carry out the protocol. Use a numbered list for se
 
 </details>
 
+---
 
+<details>
+<summary><strong>Literature Cited</strong></summary>
+
+- **Example Reference 1**: Author, A. (Year). *Title of the article*. Journal Name, Volume(Issue), Pages. DOI/URL.
+- **Example Reference 2**: Author, B. (Year). *Title of the study*. Journal Name, Volume(Issue), Pages. DOI/URL.
+- **Example Reference 3**: Author, C. (Year). *Title of the work*. Publisher. DOI/URL.
+
+_Add additional references as needed to support the protocol._
+
+</details>
