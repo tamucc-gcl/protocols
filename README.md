@@ -6,6 +6,8 @@ Inventory of protocols used by the GCL
 
 ## Organization
 
+Draft, need to think this through:
+
 ```graphql
 project_root/
 ├── README.md                         # Overview of the repository (list of protocols, how to navigate)
