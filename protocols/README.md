@@ -30,6 +30,9 @@ Use the [protocol template](protocol_template.md) to create a new protocol.  Be 
 
 ---
 
+<details>
+<summary><strong>Version Control Guidelines</strong></summary>
+
 # Version Control Guidelines
 
 These guidelines describe best practices for managing protocol versions using Git and ensure clarity, traceability, and reproducibility in your projects.
@@ -95,4 +98,8 @@ Include the following metadata in each protocol file:
 
 ---
 
-## Protocol Inventory
+## Conclusion
+
+By following these version control guidelines, your team will maintain a clear, organized, and reliable history of protocol changes. This fosters collaboration, simplifies troubleshooting, and ensures that protocols are reproducible and easy to manage over time.
+
+</details>
