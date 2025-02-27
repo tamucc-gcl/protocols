@@ -36,7 +36,6 @@ Use the [protocol template](protocol_template.md) to create a new protocol.  Be 
 <details>
 <summary><strong>Best Practices in Protocol Writing</strong></summary>
 
-## Best Practices
 - **Clarity and Detail**: Write instructions clearly and unambiguously.  
   Include specific quantities (with units), durations, and conditions so that another researcher can reproduce the experiment.  
   Define abbreviations and acronyms on first use.  
@@ -66,7 +65,7 @@ These guidelines describe best practices for managing protocol versions using Gi
 
 ---
 
-## 1. Embed Version Metadata
+### 1. Embed Version Metadata
 
 Include the following metadata in each protocol file:
 - **Author**: The person who created or last updated the protocol.
@@ -77,7 +76,7 @@ Include the following metadata in each protocol file:
 
 ---
 
-## 2. Use Commit History Effectively
+### 2. Use Commit History Effectively
 
 - **Commit Often**: Make frequent, incremental commits to capture small changes.
 - **Descriptive Commit Messages**: Write clear, concise messages that explain *what* changed and *why*.
@@ -85,7 +84,7 @@ Include the following metadata in each protocol file:
 
 ---
 
-## 3. Branching and Pull Requests
+### 3. Branching and Pull Requests
 
 - **Feature Branches**: Develop new features or updates on separate branches.
 - **Pull Requests for Merging**: Use pull requests to review and merge changes into the main branch.
@@ -93,14 +92,14 @@ Include the following metadata in each protocol file:
 
 ---
 
-## 4. Tagging and Releases
+### 4. Tagging and Releases
 
 - **Tag Releases**: Use Git tags (e.g., `v1.0.0`, `v1.1.0`) to mark significant protocol versions.
 - **Release Notes**: Document major changes, bug fixes, or enhancements in release notes or a changelog.
 
 ---
 
-## 5. Maintain a Changelog
+### 5. Maintain a Changelog
 
 - **CHANGELOG.md**: Keep a separate file or include a section in your protocols that logs:
   - Date of change
@@ -111,23 +110,19 @@ Include the following metadata in each protocol file:
 
 ---
 
-## 6. Continuous Integration and Testing
+### 6. Continuous Integration and Testing
 
 - **Automated Builds**: Use CI tools to automatically build and test changes before merging.
 - **Pre-Merge Testing**: Ensure that all changes pass tests on their respective branches to minimize conflicts and maintain code integrity.
 
 ---
 
-## 7. Access Control and Collaboration
+### 7. Access Control and Collaboration
 
 - **Limit Access**: Grant repository access only to necessary team members.
 - **Peer Reviews**: Encourage code reviews and discussions via pull requests to improve quality and share knowledge.
 
 ---
-
-## Conclusion
-
-By following these version control guidelines, your team will maintain a clear, organized, and reliable history of protocol changes. This fosters collaboration, simplifies troubleshooting, and ensures that protocols are reproducible and easy to manage over time.
 
 </details>
 
