@@ -15,7 +15,7 @@ _Briefly describe the objective or goal of this protocol._
 
   | Date       | Version | Author  | Description                                   |
   |------------|---------|---------|-----------------------------------------------|
-  | YYYY-MM-DD | 1.0.0   | [Name]  | Initial release of the protocol template.     |
+  | 2025-02-26 | 0.0.0   | Chet G. Peetee  | [Draft template](https://chatgpt.com/share/67bfaed2-de90-800f-a50e-52e0ba326130)     |
   | YYYY-MM-DD | 1.0.1   | [Name]  | Updated materials section and added troubleshooting tips. |
   
 </details>
