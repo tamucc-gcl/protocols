@@ -12,7 +12,7 @@ Use the [protocol template](protocol_template.md) to create a new protocol.  Be 
 
 ## Directory Structure
 
-```swift
+```graphql
 protocols/
   ├── pcr_dream-taq-green-mix_384-well-plate/
   │   ├── pcr_template.xlsx
