@@ -34,6 +34,32 @@ Use the [protocol template](protocol_template.md) to create a new protocol.  Be 
 ---
 
 <details>
+<summary><strong>Best Practices in Protocol Writing</strong></summary>
+
+## Best Practices
+- **Clarity and Detail**: Write instructions clearly and unambiguously.  
+  Include specific quantities (with units), durations, and conditions so that another researcher can reproduce the experiment.  
+  Define abbreviations and acronyms on first use.  
+- **Consistency**: Use a consistent format and terminology throughout the protocol.  
+  For example, keep the style of headings and lists uniform, and use the same units and symbols for measurements.  
+  Write steps in the imperative mood (e.g., "Add 5 µL of buffer").  
+- **Safety**: Highlight any critical safety precautions or hazards.  
+  Note any dangerous reagents (with proper hazard labels or references to MSDS), required personal protective equipment (PPE), and waste disposal procedures to follow.  
+  Ensure the protocol complies with relevant safety regulations or guidelines.  
+- **Version Control**: Update the protocol and version number when changes are made.  
+  Document any changes or minor variations, as even small adjustments can significantly alter outcomes&#8203;:contentReference[oaicite:1]{index=1}.  
+  Ensure the latest version is easily accessible to the team to avoid confusion.  
+- **Validation**: If possible, have someone else follow the protocol to verify it is easy to understand and yields the expected results.  
+  Incorporate feedback to improve clarity or fix any issues.  
+- **Flexibility**: Use this template as a guide, and adapt it as needed for your specific protocol.  
+  Add sub-sections or re-order content as necessary.  
+  Ensure all crucial information (purpose, materials, methods, notes, etc.) is included.  
+
+</details>
+
+---
+
+<details>
 <summary><strong>Version Control Guidelines</strong></summary>
 
 These guidelines describe best practices for managing protocol versions using Git and ensure clarity, traceability, and reproducibility in your projects.
