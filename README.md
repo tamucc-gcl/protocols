@@ -6,7 +6,7 @@ Inventory of protocols used by the GCL
 
 ## Organization
 
-Draft, need to think this through.  This might be close if we plan to copy and paste each protocol into a customer's dir/repo:
+Draft, need to think this through.  This might be close if we plan to copy and paste each protocol into a customer's dir/repo.  Otherwise, it's way too complicated:
 
 ```graphql
 project_root/
