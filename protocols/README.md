@@ -10,7 +10,8 @@ Use the [protocol template](protocol_template.md) to create a new protocol.  Be 
 
 ---
 
-## Protocol Naming
+<details>
+<summary><strong>Protocol File Naming</strong></summary>
 
 `reaction-category_protocol-name_rxn-format.md`
 
@@ -27,6 +28,8 @@ Use the [protocol template](protocol_template.md) to create a new protocol.  Be 
 	* 8-tube-strip
 	* 96-well-plate
 	* 384-well-plate
+
+</details>
 
 ---
 
