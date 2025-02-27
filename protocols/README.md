@@ -14,13 +14,13 @@ Use the [protocol template](protocol_template.md) to create a new protocol.  Be 
 
 ```swift
 protocols/
-  ├── PCR_Sample_Prep/
-  │   ├── data.xlsx
-  │   ├── analysis_script.py
+  ├── pcr_dream-taq-green-mix_384-well-plate/
+  │   ├── pcr_template.xlsx
+  │   ├── analysis_script.R
   │   ├── images/
   │   ├── README.md (contains the protocol)
-  ├── DNA_Extraction/
-  │   ├── extraction_steps.csv
+  ├── dna-extraction_omega-biotek-ezna-tissue_96-well-plate/
+  │   ├── manufacturer_protocol_manual.pdf
   │   ├── helper_script.R
   │   ├── README.md
 ```
