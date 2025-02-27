@@ -15,15 +15,14 @@ Use the [protocol template](protocol_template.md) to create a new protocol.  Be 
 ```swift
 protocols/
   ├── PCR_Sample_Prep/
-  │   ├── protocol.md
   │   ├── data.xlsx
   │   ├── analysis_script.py
   │   ├── images/
-  │   ├── README.md (optional overview of contents)
+  │   ├── README.md (contains the protocol)
   ├── DNA_Extraction/
-  │   ├── protocol.md
   │   ├── extraction_steps.csv
   │   ├── helper_script.R
+  │   ├── README.md
 ```
 
 ---
