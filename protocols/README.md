@@ -103,9 +103,11 @@ Include the following metadata in each protocol file:
 
 By following these version control guidelines, your team will maintain a clear, organized, and reliable history of protocol changes. This fosters collaboration, simplifies troubleshooting, and ensures that protocols are reproducible and easy to manage over time.
 
+</details>
+
 ---
 
 Protocol Inventory
 
 
-</details>
+
